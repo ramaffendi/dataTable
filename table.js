@@ -1,4 +1,6 @@
-new gridjs.Grid({
+ 
+ 
+ new gridjs.Grid ({
   search: true,
   sort: true,
   pagination: {
@@ -23,5 +25,5 @@ new gridjs.Grid({
     ["Eriko", "eriko99@gmail.com", "Staff produksi", "0097 22 654 00033"],
     ["Sarah", "sarah123@gmail.com", "Warehouse", "+322 876 1233"],
     ["Andin", "andin1122@mail.com", "Operator", "(353) 22 87 8356"]
-  ]
-}).render(document.getElementById("app"));
+  ]}).render(document.getElementById("app"));;
+
